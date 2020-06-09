@@ -1,7 +1,7 @@
 {
   "name": "hamburger-react-example",
   "version": "1.0.0",
-  "description": "Hamburger icons with CSS-driven transitions, created to be as elegant and performant as possible. This means no JavaScript animations, transitions on non-cheap properties and a small footprint KB-wise.",
+  "description": "Just a quick example using the [https://github.com/luukdv/hamburger-react](Hamburger React) package.",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
