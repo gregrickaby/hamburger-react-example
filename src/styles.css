@@ -1,10 +1,10 @@
 .App {
-  font-family: sans-serif;
-  text-align: center;
+  align-content: center;
   display: flex;
   flex-direction: column;
+  font-family: sans-serif;
   justify-content: center;
-  align-content: center;
+  text-align: center;
 }
 
 .menu {
