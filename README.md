@@ -2,6 +2,14 @@
 
 Just a quick example using the [Hamburger React](https://github.com/luukdv/hamburger-react) package.
 
+Install the package:
+
+```bash
+yarn add hamburger-react
+```
+
+Use the package:
+
 ```js
 import React, { useState } from "react";
 import Hamburger from "hamburger-react";
